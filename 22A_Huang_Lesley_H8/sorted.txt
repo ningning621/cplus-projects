@@ -1,0 +1,14 @@
+ 93.0 Zhiming	 91.0 ZhiJia	 92.5 Zhaoshuo	
+ 60.5 Xuanyuan	 82.5 Wingkei	 96.5 Vikram	
+ 79.0 Victor	 13.0 Tram	 64.5 Tom	
+ 84.5 Susan	 97.0 Steven	 94.5 Sherif	
+ 68.0 Runchen	 93.0 Rashmi	 55.5 Paul	
+ 94.5 Omar	 95.5 Minghe	 96.5 Michal	
+ 86.0 Mary	 73.0 Marie	 92.5 Kevin	
+ 96.5 Junzhe	 58.5 Jun	 63.0 Jiashin	
+ 88.0 Jiaqi	 97.0 Jiali	  9.0 Jennifer	
+ 71.0 Ibrahim	 45.0 Huy	 78.0 Hoang	
+ 87.5 Filip	 93.5 Fallaye	 86.0 Davie	
+ 70.5 Dat	 90.0 Dan	 86.0 Clare	
+ 75.5 Byung	 92.0 Anh	 94.0 Alice	
+ 92.0 Aditi	

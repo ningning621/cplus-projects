@@ -1,0 +1,4 @@
+Player	Final Amount
+Alice	1000000
+Ryan	100000
+John	0
